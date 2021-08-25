@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-25T05:42:52.147995949Z"
+    description: A Helm chart for Kubernetes
+    digest: 21e458d6b034f11834c7cfe5a6cd71ced9bb481797fd4b31730cba715cd58066
+    name: chart-2
+    type: application
+    urls:
+    - https://prashanthalakshmi.github.io/boa.github.io/chart-2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-25T05:42:52.147199164Z"
